@@ -21,6 +21,6 @@ Aplicação desenvolvida com React e TypeScript que permite buscar perfis do Git
 
 Este projeto utiliza a [API pública do GitHUb](https://docs.github.com/pt/rest) para buscar informações públicas de usuários e seus repositórios. 
 
-## 📦 Como rodar o projeto
+## 🚀 Como Usar
 
 Ao lado, você encontrará o link do projeto ou, se preferir, [clique aqui!](https://github-finder-ts-omega.vercel.app/)
